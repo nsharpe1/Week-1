@@ -12,7 +12,7 @@ public class Welcome1{
 
         //float c = 2.5f;
 
-       System.out.println("Integer entered = " + a);
+       System.out.println("Integer entered = " + a+a + Math.PI);
        System.out.printf("Integer entered = %d ",a);
 
     }
